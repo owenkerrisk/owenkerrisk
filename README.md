@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=$+whoami;+Owen+Kerrisk!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=$+whoami;+Owen+Kerrisk;" />
 </h1>
----
 
 # <a href="https://www.linkedin.com/in/owenkerrisk /">Owen Kerrisk</a>'s IT and Cybersecurity Project Portfolio 🔐
 
