@@ -10,10 +10,11 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 
 ## 🔵 BLUE TEAM 🔵
 
-#### 🚨 Threat Hunting
+#### 🚨 Threat Hunting & Security Operations
 
-- **[Data Exfiltration from PIPd employee](https://github.com/owenkerrisk/Sudden-Data-Exfiltration-from-PIPd-employee)**
-- **[Sudden Network Slowdowns](https://github.com/owenkerrisk/Sudden-Network-Slowdowns)**
+- **[Threat Hunting Incident: Data Exfiltration from PIPd employee](https://github.com/owenkerrisk/Sudden-Data-Exfiltration-from-PIPd-employee)**
+- **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/owenkerrisk/Sudden-Network-Slowdowns)**
+- **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/owenkerrisk/DeviceInfo-Public-IP-Address-Detected)**
 
 #### ⚠️ Vulnerability Management Projects
 
