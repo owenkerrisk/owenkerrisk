@@ -26,13 +26,18 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 
 - **[Pentration testing using Kali and Metasploit](https://github.com/owenkerrisk/Penetration-Testing-using-Kali-Metasploit-)**
 
+---
+
+## GRC Analyst
+  
+- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/owenkerrisk/GRC-Analyst)
+
+---
+
 ## 🧪 SEED LABS PROJECTS 🧪
 
 - **[Cryptography - TLS Cipher Suites](https://github.com/owenkerrisk/Crytography/tree/main)**
 
-  ## GRC Analyst
-  
-- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/owenkerrisk/GRC-Analyst)
 
 
 
