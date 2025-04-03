@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=2000&lines=$+whoami;+Owen+Kerrisk;" />
 </h1>
 
-# <a href="https://www.linkedin.com/in/owenkerrisk /">Owen Kerrisk</a>'s Cybersecurity Project Portfolio 🔐
+## <a href="https://www.linkedin.com/in/owenkerrisk /">Owen Kerrisk</a>'s Cybersecurity Project Portfolio 🔐
 
 I'm a passionate cybersecurity professional with hands-on experience in SIEM implementations, penetration testing, vulnerability management, and threat detection. I enjoy tackling complex security challenges and continuously improving security operations and processes. Feel free to explore my projects to see how I contribute to enhancing cybersecurity defenses! 
 
@@ -19,7 +19,8 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 
 - **[Vulnerability Management Program Implementation](https://github.com/owenkerrisk/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/owenkerrisk/Remediation-Automation-Bash-and-Powershell/tree/main)**
-- **[20+ STIG Implementation Remediations (Powershell)](https://github.com/owenkerrisk/stig-implementation)** 
+- **[20+ STIG Implementation Remediations (Powershell)](https://github.com/owenkerrisk/stig-implementation)**
+- **[10+ Ensure Audit Remediation-Win-Server for Password, Encryption, Admin (Powershell)](https://github.com/owenkerrisk/Audit-Remediation-Win-Server)
 
 ---
 
