@@ -30,7 +30,7 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 
 ## GRC Analyst
   
-- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/owenkerrisk/GRC-Analyst)
+- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/owenkerrisk/GRC-Analyst)**
 
 ---
 
