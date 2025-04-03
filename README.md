@@ -1,24 +1,30 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=$+whoami;+Owen+Kerrisk;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0000FF&center=true&vCenter=true&width=500&height=70&duration=2000&lines=$+whoami;+Owen+Kerrisk;" />
 </h1>
 
 # <a href="https://www.linkedin.com/in/owenkerrisk /">Owen Kerrisk</a>'s Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and enjoy tackling complex challenges with hands on experience in SIEM implementations, Penetration testing, Vulnerability Management to Threat Detection. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## 🔴 RED TEAM 🔴 
+### 🔵 BLUE TEAM 🔵
 
--**[Pentration testing using Kali and Metasploit](https://github.com/owenkerrisk/Penetration-Testing-using-Kali-Metasploit-)**
+## 🚨 Threat Hunting
 
+- ** [Data Exfiltration from PIPd employee](https://github.com/owenkerrisk/Sudden-Data-Exfiltration-from-PIPd-employee)**
 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/owenkerrisk/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🔴 RED TEAM 🔴 
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Pentration testing using Kali and Metasploit](https://github.com/owenkerrisk/Penetration-Testing-using-Kali-Metasploit-)**
+
+
+
+
+
 
 <hr/>
 
