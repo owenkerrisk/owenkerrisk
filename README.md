@@ -24,6 +24,7 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 ## 🔴 RED TEAM 🔴 
 
 - **[Pentration testing using Kali and Metasploit](https://github.com/owenkerrisk/Penetration-Testing-using-Kali-Metasploit-)**
+- **[Cryptography - TLS Cipher Suites](https://github.com/owenkerrisk/Crytography/tree/main)**
 
 
 
