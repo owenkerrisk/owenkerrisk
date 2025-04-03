@@ -6,16 +6,20 @@
 
 I'm passionate about cybersecurity and enjoy tackling complex challenges with hands on experience in SIEM implementations, Penetration testing, Vulnerability Management to Threat Detection. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+---
+
 ## 🔵 BLUE TEAM 🔵
 
 #### 🚨 Threat Hunting
 
-- ** [Data Exfiltration from PIPd employee](https://github.com/owenkerrisk/Sudden-Data-Exfiltration-from-PIPd-employee)**
+- **[Data Exfiltration from PIPd employee](https://github.com/owenkerrisk/Sudden-Data-Exfiltration-from-PIPd-employee)**
 
 #### ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/owenkerrisk/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+---
 
 ## 🔴 RED TEAM 🔴 
 
