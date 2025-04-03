@@ -19,6 +19,7 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 
 - **[Vulnerability Management Program Implementation](https://github.com/owenkerrisk/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/owenkerrisk/Remediation-Automation-Bash-and-Powershell/tree/main)**
+- **[20+ STIG Implementation Remediations (Powershell)](https://github.com/owenkerrisk/stig-implementation)** 
 
 ---
 
