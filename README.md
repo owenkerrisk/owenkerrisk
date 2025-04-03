@@ -13,6 +13,7 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 #### 🚨 Threat Hunting
 
 - **[Data Exfiltration from PIPd employee](https://github.com/owenkerrisk/Sudden-Data-Exfiltration-from-PIPd-employee)**
+- **[Sudden Network Slowdowns](https://github.com/owenkerrisk/Sudden-Network-Slowdowns)**
 
 #### ⚠️ Vulnerability Management Projects
 
@@ -24,7 +25,14 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 ## 🔴 RED TEAM 🔴 
 
 - **[Pentration testing using Kali and Metasploit](https://github.com/owenkerrisk/Penetration-Testing-using-Kali-Metasploit-)**
+
+## 🧪 SEED LABS PROJECTS 🧪
+
 - **[Cryptography - TLS Cipher Suites](https://github.com/owenkerrisk/Crytography/tree/main)**
+
+  ## GRC Analyst
+  
+- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/owenkerrisk/GRC-Analyst)
 
 
 
