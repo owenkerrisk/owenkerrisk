@@ -6,6 +6,10 @@
 
 I'm passionate about cybersecurity and enjoy tackling complex challenges with hands on experience in SIEM implementations, Penetration testing, Vulnerability Management to Threat Detection. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## 🔴 RED TEAM 🔴 
+
+-**[Pentration testing using Kali and Metasploit](https://github.com/owenkerrisk/Penetration-Testing-using-Kali-Metasploit-)**
+
 
 ## ⚠️ Vulnerability Management Projects
 
