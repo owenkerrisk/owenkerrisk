@@ -8,7 +8,7 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 
 ---
 
-## 🔵 BLUE TEAM 🔵
+## 🔵 BLUE TEAM 🔵 
 
 #### 🚨 Threat Hunting & Security Operations
 - **[Threat Hunting Incident: Data Exfiltration from PIPd employee](https://github.com/owenkerrisk/Sudden-Data-Exfiltration-from-PIPd-employee)**
@@ -28,7 +28,7 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 
 ---
 
-## GRC Analyst
+## 📊 GRC Analyst 📊
 - **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/owenkerrisk/GRC-Analyst)**
 
 ---
