@@ -4,7 +4,7 @@
 
 ## <a href="https://www.linkedin.com/in/owenkerrisk /">Owen Kerrisk</a>'s Cybersecurity Project Portfolio 🔐
 
-I'm a passionate cybersecurity professional with hands-on experience in SIEM implementations, penetration testing, vulnerability management, and threat detection. I enjoy tackling complex security challenges and continuously improving security operations and processes. Feel free to explore my projects to see how I contribute to enhancing cybersecurity defenses! 
+I'm a passionate cybersecurity professional with hands-on experience in SIEM implementations, penetration testing, vulnerability management, and threat detection. I enjoy tackling complex security challenges and continuously improving security operations and processes. Feel free to explore my projects to see how I contribute to enhancing cybersecurity skills! 
 
 ---
 
