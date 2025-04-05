@@ -16,6 +16,7 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/owenkerrisk/DeviceInfo-Public-IP-Address-Detected)**
 - **[Incident Response: Brute Force Attempt (Create Alert Rule)](https://github.com/owenkerrisk/Brute-Force-Attempt-)**
 - **[Incident Response: Remote Code Execution Detection](https://github.com/owenkerrisk/Remote-Code-Execution-Detection)**
+- **[Incident Response: Powershell Suspicious Web Request (Create Alert Rule)](https://github.com/owenkerrisk/PowerShell-Suspicious-Web-Request)**
 
 #### ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/owenkerrisk/vulnerability-management-program)**
