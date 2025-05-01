@@ -18,7 +18,7 @@ I'm a passionate cybersecurity professional with hands-on experience in SIEM imp
 - **[Incident Response: Brute Force Attempt (Create Alert Rule)](https://github.com/owenkerrisk/Brute-Force-Attempt-)**
 - **[Incident Response: Remote Code Execution Detection](https://github.com/owenkerrisk/Remote-Code-Execution-Detection)**
 - **[Incident Response: Powershell Suspicious Web Request (Create Alert Rule)](https://github.com/owenkerrisk/PowerShell-Suspicious-Web-Request)**
-- **[Incident Response: Potential Impossible Travel](https://github.com/owenkerrisk/Potential-Impossible-Travel)**
+- **[Incident Response: Potential Impossible Travel (Create Alert Rule](https://github.com/owenkerrisk/Potential-Impossible-Travel)**
 
 #### ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/owenkerrisk/vulnerability-management-program)**
